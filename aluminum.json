@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:10",
+  "updated_at": "2026-11-21 11:11",
   "date": "2026-11-20",
   "price": 22330,
   "min": 22310,
@@ -825,11 +825,11 @@
     "sub_name": "LME 铝 3M",
     "unit": "美元/吨",
     "currency": "USD",
-    "latest": 2840.7,
-    "high": 2864.5,
-    "low": 2825.5,
-    "change": -27.8,
-    "change_pct": -0.97,
+    "latest": 2848.8,
+    "high": 2870,
+    "low": 2821,
+    "change": -19.7,
+    "change_pct": -0.69,
     "source": "新浪财经（LME 3M 铝同步行情）",
     "source_note": "LME 官网设有反爬（直连返回 403），曲线取 LME 3M 铝期货日收盘价（新浪财经同步）",
     "series": [
@@ -1431,7 +1431,7 @@
       },
       {
         "date": "2026-11-20",
-        "price": 2850.5
+        "price": 2847
       }
     ]
   }
