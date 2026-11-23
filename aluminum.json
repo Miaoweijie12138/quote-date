@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-22 11:13",
-  "date": "2026-11-20",
-  "price": 22330,
-  "min": 22310,
-  "max": 22350,
-  "change": 50,
+  "updated_at": "2026-11-23 11:24",
+  "date": "2026-11-23",
+  "price": 22590,
+  "min": null,
+  "max": null,
+  "change": 260,
   "source": "有色宝长江",
   "history_source": "世铝网·有色宝长江",
   "trend": [
-    {
-      "date": "2026-11-12",
-      "label": "11-12",
-      "price": 23110
-    },
     {
       "date": "2026-11-13",
       "label": "11-13",
@@ -42,13 +37,14 @@
       "date": "2026-11-20",
       "label": "11-20",
       "price": 22330
+    },
+    {
+      "date": "2026-11-23",
+      "label": "11-23",
+      "price": 22590
     }
   ],
   "history": [
-    {
-      "date": "2026-09-22",
-      "price": 24260
-    },
     {
       "date": "2026-09-23",
       "price": 24240
@@ -204,6 +200,10 @@
     {
       "date": "2026-11-20",
       "price": 22330
+    },
+    {
+      "date": "2026-11-23",
+      "price": 22590
     }
   ],
   "smm": {
@@ -211,17 +211,13 @@
     "sub_name": "长江现货 A00 铝锭",
     "unit": "元/吨",
     "currency": "CNY",
-    "latest": 22330,
-    "min": 22310,
-    "max": 22350,
-    "change": 50,
-    "change_pct": 0.22,
+    "latest": 22590,
+    "min": null,
+    "max": null,
+    "change": 260,
+    "change_pct": 1.16,
     "source": "有色宝长江 market.cnal.com/changjiang",
     "series": [
-      {
-        "date": "2026-04-15",
-        "price": 24740
-      },
       {
         "date": "2026-04-16",
         "price": 25080
@@ -817,6 +813,10 @@
       {
         "date": "2026-11-20",
         "price": 22330
+      },
+      {
+        "date": "2026-11-23",
+        "price": 22590
       }
     ]
   },
@@ -825,18 +825,14 @@
     "sub_name": "LME 铝 3M",
     "unit": "美元/吨",
     "currency": "USD",
-    "latest": 2848.8,
-    "high": 2870,
-    "low": 2821,
-    "change": -19.7,
-    "change_pct": -0.69,
+    "latest": 2844.8,
+    "high": 2863,
+    "low": 2815,
+    "change": -2.2,
+    "change_pct": -0.08,
     "source": "新浪财经（LME 3M 铝同步行情）",
     "source_note": "LME 官网设有反爬（直连返回 403），曲线取 LME 3M 铝期货日收盘价（新浪财经同步）",
     "series": [
-      {
-        "date": "2026-04-22",
-        "price": 3618.5
-      },
       {
         "date": "2026-04-23",
         "price": 3598
@@ -1432,6 +1428,10 @@
       {
         "date": "2026-11-20",
         "price": 2847
+      },
+      {
+        "date": "2026-11-23",
+        "price": 2839
       }
     ]
   }
