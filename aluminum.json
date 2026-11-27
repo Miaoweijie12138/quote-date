@@ -1,24 +1,20 @@
 {
-  "updated_at": "2026-11-26 11:24",
-  "date": "2026-11-26",
-  "price": 22700,
-  "min": 22680,
-  "max": 22720,
-  "change": 380,
+  "updated_at": "2026-11-27 11:27",
+  "date": "2026-11-27",
+  "price": 22960,
+  "min": 22940,
+  "max": 22980,
+  "change": 260,
   "source": "长江有色网",
   "history_source": "世铝网·有色宝长江",
   "trend": [
     {
-      "date": "2026-11-26",
-      "label": "11-26",
-      "price": 22700
+      "date": "2026-11-27",
+      "label": "11-27",
+      "price": 22960
     }
   ],
   "history": [
-    {
-      "date": "2026-09-29",
-      "price": 24100
-    },
     {
       "date": "2026-09-30",
       "price": 24030
@@ -174,6 +170,10 @@
     {
       "date": "2026-11-26",
       "price": 22700
+    },
+    {
+      "date": "2026-11-27",
+      "price": 22960
     }
   ],
   "smm": {
@@ -181,17 +181,13 @@
     "sub_name": "长江现货 A00 铝锭",
     "unit": "元/吨",
     "currency": "CNY",
-    "latest": 22700,
-    "min": 22680,
-    "max": 22720,
-    "change": 380,
+    "latest": 22960,
+    "min": 22940,
+    "max": 22980,
+    "change": 260,
     "change_pct": null,
     "source": "有色宝长江 market.cnal.com/changjiang",
     "series": [
-      {
-        "date": "2026-04-21",
-        "price": 24660
-      },
       {
         "date": "2026-04-22",
         "price": 24770
@@ -787,6 +783,10 @@
       {
         "date": "2026-11-26",
         "price": 22700
+      },
+      {
+        "date": "2026-11-27",
+        "price": 22960
       }
     ]
   },
@@ -795,18 +795,14 @@
     "sub_name": "LME 铝 3M",
     "unit": "美元/吨",
     "currency": "USD",
-    "latest": 2803.1,
-    "high": 2826.5,
-    "low": 2786,
-    "change": 7.1,
-    "change_pct": 0.25,
+    "latest": 2849.4,
+    "high": 2865,
+    "low": 2797.5,
+    "change": 44.9,
+    "change_pct": 1.6,
     "source": "新浪财经（LME 3M 铝同步行情）",
     "source_note": "LME 官网设有反爬（直连返回 403），曲线取 LME 3M 铝期货日收盘价（新浪财经同步）",
     "series": [
-      {
-        "date": "2026-04-28",
-        "price": 3536.5
-      },
       {
         "date": "2026-04-29",
         "price": 3487.5
@@ -1401,7 +1397,11 @@
       },
       {
         "date": "2026-11-26",
-        "price": 2807.5
+        "price": 2804.5
+      },
+      {
+        "date": "2026-11-27",
+        "price": 2852.5
       }
     ]
   }
